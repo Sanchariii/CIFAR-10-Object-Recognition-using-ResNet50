@@ -16,7 +16,7 @@ Before running the code, make sure you have the following dependencies installed
   
 * Matplotlib
 
-  # Dataset
+# Dataset
 The CIFAR-10 dataset is not included in this repository. To download the dataset, please visit this website: [Kaggle]( https://www.kaggle.com/competitions/cifar-10/data)
 
 Once downloaded, extract the dataset and place it in the data directory.
