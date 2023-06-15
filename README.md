@@ -1,4 +1,4 @@
-## CIFAR-10 Object Recognition using ResNet50
+### CIFAR-10 Object Recognition using ResNet50
 
 This project aims to demonstrate object recognition on the CIFAR-10 dataset using the ResNet50 deep learning model. The CIFAR-10 dataset consists of 60,000 32x32 color images across 10 different classes, with 6,000 images per class. The ResNet50 model is a convolutional neural network architecture that has achieved state-of-the-art performance on various image classification tasks.
 
